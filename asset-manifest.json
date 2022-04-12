@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f57965f2.js",
+    "main.css": "/static/css/main.0b4e74b4.css",
+    "main.js": "/static/js/main.96e1c450.js",
     "static/js/787.e814973e.chunk.js": "/static/js/787.e814973e.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/docker-logo.jpg": "/static/media/docker-logo.2956b0bb6518c858cef0.jpg",
+    "static/media/aws.png": "/static/media/aws.d3d1901047ca99025a10.png",
+    "static/media/foto.jpg": "/static/media/foto.beabf48fce24152be6d9.jpg",
+    "static/media/python.png": "/static/media/python.b8fe4ec645544d74e014.png",
+    "static/media/gitlab-ci.png": "/static/media/gitlab-ci.dbdf90a67cc6a8804c75.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f57965f2.js.map": "/static/js/main.f57965f2.js.map",
+    "main.0b4e74b4.css.map": "/static/css/main.0b4e74b4.css.map",
+    "main.96e1c450.js.map": "/static/js/main.96e1c450.js.map",
     "787.e814973e.chunk.js.map": "/static/js/787.e814973e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f57965f2.js"
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.96e1c450.js"
   ]
 }
