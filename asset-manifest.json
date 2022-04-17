@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.da93c94c.css",
-    "main.js": "/static/js/main.bd6c4019.js",
+    "main.js": "/static/js/main.a6c9ecce.js",
     "static/js/787.e814973e.chunk.js": "/static/js/787.e814973e.chunk.js",
     "static/media/docker-logo.jpg": "/static/media/docker-logo.2956b0bb6518c858cef0.jpg",
     "static/media/aws.png": "/static/media/aws.d3d1901047ca99025a10.png",
@@ -10,11 +10,11 @@
     "static/media/gitlab-ci.png": "/static/media/gitlab-ci.dbdf90a67cc6a8804c75.png",
     "index.html": "/index.html",
     "main.da93c94c.css.map": "/static/css/main.da93c94c.css.map",
-    "main.bd6c4019.js.map": "/static/js/main.bd6c4019.js.map",
+    "main.a6c9ecce.js.map": "/static/js/main.a6c9ecce.js.map",
     "787.e814973e.chunk.js.map": "/static/js/787.e814973e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da93c94c.css",
-    "static/js/main.bd6c4019.js"
+    "static/js/main.a6c9ecce.js"
   ]
 }
